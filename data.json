@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Loop Engage Plus Earplugs",
+      "price": 44.95,
+      "categoryId": 1,
+      "productDescription": "Loop Engage Plus earplugs are the result of extensive research & development, combining an innovative acoustic channel and a newly-engineered filter for more engaging conversations.",
+      "review": "The only way to get through prepping dinner with three kids around.",
+      "rating": 5,
+      "productUrl": "https://www.amazon.com/dp/B0BFS1XSW8",
+      "productImageUrl": "https://m.media-amazon.com/images/I/51HvwyhI+ZL._AC_SX679_.jpg",
+      "tags": ["parenting"]
+    },
+    {
+      "id": 2,
+      "name": "GUND Cozys Collection Elephant Plush",
+      "price": 25.0,
+      "categoryId": 1,
+      "productDescription": "This adorable elephant stuffed animal sits 10” tall and features oversized ears, a long trunk, soft, floppy limbs, and rippled grey fur. It also has a slightly under-stuffed body that makes hugs feel even sweeter!",
+      "review": "Incredibly soft and fluffy. It's a hit with the babies!",
+      "rating": 5,
+      "productUrl": "https://www.amazon.com/dp/B08F7WVXK9?psc=1&ref=ppx_yo2ov_dt_b_product_details",
+      "productImageUrl": "https://m.media-amazon.com/images/I/81mdKwBQqQL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "tags": ["parenting", "baby"]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "parenting",
+      "imageUrl": "https://images.unsplash.com/photo-1536598315365-c7bae6fd4328?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "tech",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "hiking",
+      "imageUrl": "https://images.unsplash.com/photo-1599423423927-a2c777b40faa?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "skin care",
+      "imageUrl": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "tags": ["baby", "toddler", "work", "parenting", "skin care"]
+}
